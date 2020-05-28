@@ -2,11 +2,9 @@
 \alias{descriptivo_vis}
 %- Also NEED an '\alias' for EACH other topic documented here.
 \title{
-%%  ~~function to do ... ~~
 Genera una visualización
 }
 \description{
-%%  ~~ A concise (1-5 lines) description of what the function does. ~~
 Solo para variables continuas
 }
 \usage{
